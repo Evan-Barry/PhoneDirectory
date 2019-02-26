@@ -1,0 +1,14 @@
+bart
+1490
+bob
+354
+kay
+2126
+maggie
+4527
+mark
+254
+sue
+3422
+tim
+7891
